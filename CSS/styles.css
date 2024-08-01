@@ -1,0 +1,21 @@
+/* ini css */
+
+nav {
+    border:1px solid;
+    display: flex;
+    justify-content: space-between;
+    padding:13px
+}
+
+.logo-icon {
+    border:1px solid;
+}
+
+.nav-container {
+    display: flex;
+}
+
+.nav-item {
+    border:1px solid;
+    padding:10px;
+}
